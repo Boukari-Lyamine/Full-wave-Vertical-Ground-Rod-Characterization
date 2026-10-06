@@ -1,21 +1,27 @@
-MIT License
+rodmom_case -- Licence for the stand-alone executable
+Copyright (c) 2026 Lyamine Boukari. All rights reserved.
 
-Copyright (c) 2026 BLgit68
+1. Grant. You may download, install and use the executable (rodmom_case.exe)
+   free of charge, for research, teaching and engineering work.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+2. Redistribution. You may redistribute the executable only unmodified,
+   together with this licence and the README, and free of charge.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+3. Restrictions. You may not decompile, disassemble, extract the deployable
+   archive of, or otherwise reverse engineer the executable, nor attempt to
+   recover its source code, except to the extent that applicable law
+   expressly permits it despite this restriction.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Attribution. Results obtained with the executable and published must cite
+   the papers listed in CITATION.cff.
+
+5. No warranty. The executable is provided "as is", without warranty of any
+   kind, express or implied, including fitness for a particular purpose. It
+   is not a substitute for the safety assessment required by grounding
+   standards. In no event shall the authors be liable for any claim, damages
+   or other liability arising from its use.
+
+6. Third-party software. The executable requires the MATLAB Runtime, which is
+   distributed by The MathWorks, Inc. under its own licence.
+
+The source code is not covered by this licence and is not distributed.
