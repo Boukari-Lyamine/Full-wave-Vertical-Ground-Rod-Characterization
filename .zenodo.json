@@ -1,0 +1,16 @@
+{
+  "title": "Full-wave vertical ground rod characterization: data",
+  "upload_type": "dataset",
+  "description": "Numerical data behind the article: L. Boukari and A. Bayadi, \"When Is the Quasi-Static Image Enough? Validity Map and Accurate Sommerfeld Evaluation for Vertical Ground Rods,\" submitted to IEEE Access. Input impedance sweeps (10 Hz to 30 MHz) for 3 m and 30 m rods in 10, 100 and 1000 ohm-m soil with the exact Sommerfeld remainder and three quasi-static substitutes, 25-digit reference values of the remainder on the wire, mesh-convergence data, derived NEC-4.2 comparisons, permittivity checks and lightning ground potential rise under the IEC 62305-1 strokes. The source code is not publicly available.",
+  "creators": [
+    {
+      "name": "Boukari, Lyamine",
+      "affiliation": "Laboratoire d'Automatique de Sétif (LAS), Setif 1 University-Ferhat Abbas, Algeria",
+      "orcid": "0009-0007-6158-6083"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "v1.0",
+  "keywords": ["grounding", "lightning", "ground rod", "Sommerfeld integrals", "method of moments", "computational electromagnetics"]
+}
