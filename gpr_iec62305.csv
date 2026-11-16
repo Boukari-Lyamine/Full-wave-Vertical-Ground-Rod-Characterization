@@ -1,0 +1,121 @@
+case,stroke,variant,R0_ohm,Vpeak_kV_per_kA,t_peak_us,impulse_coefficient_A
+L03_s1e-3,first positive 10/350,exact,308.16,307.23,31.73,0.9970
+L03_s1e-3,first positive 10/350,static,308.16,307.23,31.73,0.9970
+L03_s1e-3,first positive 10/350,phase,308.16,307.23,31.73,0.9970
+L03_s1e-3,first positive 10/350,zero,308.16,307.23,31.73,0.9970
+L03_s1e-3,first negative 1/200,exact,308.16,305.8,3.93,0.9924
+L03_s1e-3,first negative 1/200,static,308.16,305.8,3.93,0.9924
+L03_s1e-3,first negative 1/200,phase,308.16,305.8,3.935,0.9923
+L03_s1e-3,first negative 1/200,zero,308.16,305.8,3.93,0.9924
+L03_s1e-3,subsequent 0.25/100,exact,308.16,304.18,1.42,0.9871
+L03_s1e-3,subsequent 0.25/100,static,308.16,304.18,1.42,0.9871
+L03_s1e-3,subsequent 0.25/100,phase,308.16,304.16,1.425,0.9870
+L03_s1e-3,subsequent 0.25/100,zero,308.16,304.18,1.415,0.9871
+L30_s1e-3,first positive 10/350,exact,43.153,42.253,32.87,0.9791
+L30_s1e-3,first positive 10/350,static,43.153,42.253,32.87,0.9791
+L30_s1e-3,first positive 10/350,phase,43.153,42.253,32.87,0.9791
+L30_s1e-3,first positive 10/350,zero,43.153,42.253,32.87,0.9791
+L30_s1e-3,first negative 1/200,exact,43.153,41.301,6.665,0.9571
+L30_s1e-3,first negative 1/200,static,43.153,41.302,6.67,0.9571
+L30_s1e-3,first negative 1/200,phase,43.153,41.3,6.67,0.9571
+L30_s1e-3,first negative 1/200,zero,43.153,41.301,6.675,0.9571
+L30_s1e-3,subsequent 0.25/100,exact,43.153,64.996,0.57,1.5062
+L30_s1e-3,subsequent 0.25/100,static,43.153,65,0.57,1.5063
+L30_s1e-3,subsequent 0.25/100,phase,43.153,64.996,0.57,1.5062
+L30_s1e-3,subsequent 0.25/100,zero,43.153,64.995,0.57,1.5062
+L03_s1e-1,first positive 10/350,exact,3.0816,2.993,33.57,0.9712
+L03_s1e-1,first positive 10/350,static,3.0816,2.993,33.57,0.9712
+L03_s1e-1,first positive 10/350,phase,3.0816,2.993,33.57,0.9712
+L03_s1e-1,first positive 10/350,zero,3.0816,2.993,33.57,0.9712
+L03_s1e-1,first negative 1/200,exact,3.0816,2.921,2.18,0.9479
+L03_s1e-1,first negative 1/200,static,3.0816,2.921,2.18,0.9479
+L03_s1e-1,first negative 1/200,phase,3.0816,2.921,2.18,0.9479
+L03_s1e-1,first negative 1/200,zero,3.0816,2.9211,2.18,0.9479
+L03_s1e-1,subsequent 0.25/100,exact,3.0816,4.6503,0.52,1.5091
+L03_s1e-1,subsequent 0.25/100,static,3.0816,4.6502,0.52,1.5090
+L03_s1e-1,subsequent 0.25/100,phase,3.0816,4.6503,0.52,1.5091
+L03_s1e-1,subsequent 0.25/100,zero,3.0816,4.6503,0.52,1.5091
+L30_s1e-1,first positive 10/350,exact,0.43153,1.0688,21.41,2.4768
+L30_s1e-1,first positive 10/350,static,0.43153,1.0688,21.41,2.4768
+L30_s1e-1,first positive 10/350,phase,0.43153,1.0688,21.41,2.4768
+L30_s1e-1,first positive 10/350,zero,0.43153,1.0688,21.41,2.4768
+L30_s1e-1,first negative 1/200,exact,0.43153,2.7214,2.075,6.3064
+L30_s1e-1,first negative 1/200,static,0.43153,2.7214,2.075,6.3064
+L30_s1e-1,first negative 1/200,phase,0.43153,2.7214,2.075,6.3064
+L30_s1e-1,first negative 1/200,zero,0.43153,2.7214,2.075,6.3064
+L30_s1e-1,subsequent 0.25/100,exact,0.43153,4.6489,0.52,10.7730
+L30_s1e-1,subsequent 0.25/100,static,0.43153,4.6489,0.52,10.7730
+L30_s1e-1,subsequent 0.25/100,phase,0.43153,4.6489,0.52,10.7730
+L30_s1e-1,subsequent 0.25/100,zero,0.43153,4.6489,0.52,10.7730
+L03_s1e-2,first positive 10/350,exact,30.816,30.526,32.11,0.9906
+L03_s1e-2,first positive 10/350,static,30.816,30.526,32.11,0.9906
+L03_s1e-2,first positive 10/350,phase,30.816,30.526,32.11,0.9906
+L03_s1e-2,first positive 10/350,zero,30.816,30.526,32.11,0.9906
+L03_s1e-2,first negative 1/200,exact,30.816,30.135,4.815,0.9779
+L03_s1e-2,first negative 1/200,static,30.816,30.135,4.81,0.9779
+L03_s1e-2,first negative 1/200,phase,30.816,30.135,4.815,0.9779
+L03_s1e-2,first negative 1/200,zero,30.816,30.135,4.81,0.9779
+L03_s1e-2,subsequent 0.25/100,exact,30.816,29.815,2.265,0.9675
+L03_s1e-2,subsequent 0.25/100,static,30.816,29.815,2.265,0.9675
+L03_s1e-2,subsequent 0.25/100,phase,30.816,29.815,2.265,0.9675
+L03_s1e-2,subsequent 0.25/100,zero,30.816,29.815,2.265,0.9675
+L30_s1e-2,first positive 10/350,exact,4.3153,4.3445,22.25,1.0068
+L30_s1e-2,first positive 10/350,static,4.3153,4.3445,22.25,1.0068
+L30_s1e-2,first positive 10/350,phase,4.3153,4.3445,22.25,1.0068
+L30_s1e-2,first positive 10/350,zero,4.3153,4.3446,22.25,1.0068
+L30_s1e-2,first negative 1/200,exact,4.3153,10.69,2.065,2.4773
+L30_s1e-2,first negative 1/200,static,4.3153,10.69,2.065,2.4773
+L30_s1e-2,first negative 1/200,phase,4.3153,10.69,2.065,2.4773
+L30_s1e-2,first negative 1/200,zero,4.3153,10.69,2.065,2.4773
+L30_s1e-2,subsequent 0.25/100,exact,4.3153,18.821,0.52,4.3614
+L30_s1e-2,subsequent 0.25/100,static,4.3153,18.821,0.52,4.3614
+L30_s1e-2,subsequent 0.25/100,phase,4.3153,18.821,0.52,4.3614
+L30_s1e-2,subsequent 0.25/100,zero,4.3153,18.821,0.52,4.3614
+L03_s1e-3_t05,first positive 10/350,exact,293.55,292.62,31.75,0.9969
+L03_s1e-3_t05,first positive 10/350,static,293.55,292.62,31.75,0.9969
+L03_s1e-3_t05,first positive 10/350,phase,293.55,292.62,31.75,0.9969
+L03_s1e-3_t05,first positive 10/350,zero,293.55,292.62,31.74,0.9969
+L03_s1e-3_t05,first negative 1/200,exact,293.55,291.2,3.945,0.9920
+L03_s1e-3_t05,first negative 1/200,static,293.55,291.2,3.945,0.9920
+L03_s1e-3_t05,first negative 1/200,phase,293.55,291.19,3.95,0.9920
+L03_s1e-3_t05,first negative 1/200,zero,293.55,291.2,3.945,0.9920
+L03_s1e-3_t05,subsequent 0.25/100,exact,293.55,289.6,1.435,0.9866
+L03_s1e-3_t05,subsequent 0.25/100,static,293.55,289.6,1.435,0.9866
+L03_s1e-3_t05,subsequent 0.25/100,phase,293.55,289.58,1.445,0.9865
+L03_s1e-3_t05,subsequent 0.25/100,zero,293.55,289.6,1.43,0.9866
+L30_s1e-3_t05,first positive 10/350,exact,42.822,41.922,32.88,0.9790
+L30_s1e-3_t05,first positive 10/350,static,42.822,41.922,32.88,0.9790
+L30_s1e-3_t05,first positive 10/350,phase,42.822,41.922,32.88,0.9790
+L30_s1e-3_t05,first positive 10/350,zero,42.822,41.922,32.88,0.9790
+L30_s1e-3_t05,first negative 1/200,exact,42.822,41.037,2.155,0.9583
+L30_s1e-3_t05,first negative 1/200,static,42.822,40.993,2.155,0.9573
+L30_s1e-3_t05,first negative 1/200,phase,42.822,41.043,2.155,0.9585
+L30_s1e-3_t05,first negative 1/200,zero,42.822,41.055,2.155,0.9587
+L30_s1e-3_t05,subsequent 0.25/100,exact,42.822,64.912,0.57,1.5159
+L30_s1e-3_t05,subsequent 0.25/100,static,42.822,64.919,0.57,1.5160
+L30_s1e-3_t05,subsequent 0.25/100,phase,42.822,64.913,0.57,1.5159
+L30_s1e-3_t05,subsequent 0.25/100,zero,42.822,64.921,0.57,1.5161
+L03_FD1e-3,first positive 10/350,exact,307.38,282.56,42.44,0.9193
+L03_FD1e-3,first positive 10/350,static,307.38,282.56,42.44,0.9193
+L03_FD1e-3,first positive 10/350,phase,307.38,282.56,42.44,0.9193
+L03_FD1e-3,first positive 10/350,zero,307.38,282.56,42.43,0.9193
+L03_FD1e-3,first negative 1/200,exact,307.38,269.58,17.44,0.8770
+L03_FD1e-3,first negative 1/200,static,307.38,269.58,17.44,0.8770
+L03_FD1e-3,first negative 1/200,phase,307.38,269.58,17.44,0.8770
+L03_FD1e-3,first negative 1/200,zero,307.38,269.58,17.44,0.8770
+L03_FD1e-3,subsequent 0.25/100,exact,307.38,258.48,10.66,0.8409
+L03_FD1e-3,subsequent 0.25/100,static,307.38,258.48,10.66,0.8409
+L03_FD1e-3,subsequent 0.25/100,phase,307.38,258.48,10.66,0.8409
+L03_FD1e-3,subsequent 0.25/100,zero,307.38,258.49,10.65,0.8409
+L30_FD1e-3,first positive 10/350,exact,43.044,39.018,44.68,0.9065
+L30_FD1e-3,first positive 10/350,static,43.044,39.018,44.67,0.9065
+L30_FD1e-3,first positive 10/350,phase,43.044,39.018,44.68,0.9065
+L30_FD1e-3,first positive 10/350,zero,43.044,39.018,44.67,0.9065
+L30_FD1e-3,first negative 1/200,exact,43.044,37.097,19.2,0.8618
+L30_FD1e-3,first negative 1/200,static,43.044,37.097,19.2,0.8618
+L30_FD1e-3,first negative 1/200,phase,43.044,37.097,19.2,0.8618
+L30_FD1e-3,first negative 1/200,zero,43.044,37.098,19.2,0.8618
+L30_FD1e-3,subsequent 0.25/100,exact,43.044,39.181,0.595,0.9102
+L30_FD1e-3,subsequent 0.25/100,static,43.044,39.181,0.595,0.9103
+L30_FD1e-3,subsequent 0.25/100,phase,43.044,39.181,0.595,0.9102
+L30_FD1e-3,subsequent 0.25/100,zero,43.044,39.181,0.595,0.9102
